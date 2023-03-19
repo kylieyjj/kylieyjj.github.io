@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a Ph.D. student at U of U
 
 ## Research Interests
 
@@ -21,3 +21,6 @@ I am a Ph.D. student at ...
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
+
+## Hobbies
+- blablablablabla
