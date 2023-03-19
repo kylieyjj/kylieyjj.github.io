@@ -1,8 +1,8 @@
 # Basic Information 
-title: Kylie
+title: Yeonjung Jo
 position: Ph.D. Student
-affiliation: Your Affiliation
-email: uxxxxxx@utah.edu
+affiliation: University of Utah
+email: yeonjung.jo@utah.edu
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
@@ -12,7 +12,7 @@ email: uxxxxxx@utah.edu
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/
+google_scholar: https://scholar.google.com/citations?user=WqmPa4EAAAAJ&hl=en
 cv_link: assets/files/curriculum_vitae.pdf
 github_link: https://github.com/
 linkedin: https://www.linkedin.com/
